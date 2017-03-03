@@ -7,10 +7,12 @@ __pycache__/
 *.so
 
 # notebooks
-.ipnyb_checkpoints/
+*.ipnyb_checkpoints/
 
 # freesurfer data
-subjects/
+*subjects/
+*.xdebug_tksurfer
+
 
 # Distribution / packaging
 .Python
